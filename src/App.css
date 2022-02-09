@@ -1,0 +1,25 @@
+.Header{
+    color: #000000;
+    text-align: center;
+    font-family: 'Quintessential', cursive;    
+}
+
+.division{
+    margin: 15px 0px;
+    padding: 10px;
+    background-color: #ffd5c4d5;
+}
+
+.que{
+    font-size: 2rem;
+}
+
+.opt{
+    min-width: 200px;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    margin: 1em;
+    padding: 10px 20px;
+}
